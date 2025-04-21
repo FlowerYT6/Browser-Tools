@@ -1,9 +1,9 @@
 function historyback() {
-
+ window.history.back()
 }
 
 function historyfwd() {
-
+ window.history.forward()
 }
 
 function browserhome() {
@@ -11,7 +11,7 @@ function browserhome() {
 }
 
 function browserrefresh() {
-
+ 
 }
 
 document.getElementById("screenw").innerHTML =
