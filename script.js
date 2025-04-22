@@ -7,11 +7,11 @@ function historyfwd() {
 }
 
 function browserhome() {
-
+ window.open("https://google.com.au")
 }
 
 function browserrefresh() {
- 
+ window.location.reload
 }
 
 document.getElementById("screenw").innerHtML =
