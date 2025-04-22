@@ -14,8 +14,8 @@ function browserrefresh() {
  
 }
 
-document.getElementById("screenh").innerHtML =
- "Screen Height: " + screen.height;
-
 document.getElementById("screenw").innerHtML =
  "Screen Width: " + screen.width;
+
+document.getElementById("screenh").innerHtML =
+ "Screen Height: " + screen.width;
